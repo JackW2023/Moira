@@ -90,4 +90,10 @@ THEN I am looped back to the main page
 ![](./Assets/images/ZodiacWalkthrough2.png)
 ![](./Assets/images/ZodiacWalkthrough3.png)
 ![](./Assets/images/ZodiacWalkthrough4.png)
+
+# Credits
+* UCB Instructor
+* TAs
+* Members of The Team
+
 # Taa-Daa! Magic Happens When You Work Together.
